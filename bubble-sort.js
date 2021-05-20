@@ -21,5 +21,8 @@ First Element: ${a[0]}
 Last Element: ${a.pop()}`)
 }
 
-
+// returns:
+// Array is sorted in 12 swaps.
+// First Element: 1
+// Last Element: 10
 countSwaps([4, 5, 2, 1, 10, 3, 6, 7, 8, 9])
